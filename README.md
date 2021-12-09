@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-This project aims to help tourists find and plan their trips. Users can provide input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the users will be able to choose four cities to create a travel itinerary.
+This project aims to help tourists find and plan their trips. We aim to use the Google Maps Directions API, as a result users will be able to create routes between their destinations as well as a marker layer map.
 
 
 ### How might we provide real-time suggestions for our client's ideal hotels?
