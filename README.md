@@ -22,7 +22,7 @@ This project aims to help tourists find and plan their trips. Users can provide 
 
 ## Travel Destinations Map
 
-![image](https://user-images.githubusercontent.com/93144225/145335947-8c73299a-7a08-475b-9433-e8aa514ce3eb.png
+![image](https://user-images.githubusercontent.com/93144225/145336115-c4f9acf5-3ef5-4518-b558-fcccfa3f6c7f.png)
 
 ## Travel Itinerary Map
 
@@ -31,5 +31,5 @@ This project aims to help tourists find and plan their trips. Users can provide 
 
 
 ## Links
-  * Visit this [link](https://github.com/tanzimamin2/PyBer_Analysis) for the excel dataset and other resources.
+  * Visit this [link](https://github.com/tanzimamin2/World_Weather_Analysis) for the excel dataset and other resources.
    
